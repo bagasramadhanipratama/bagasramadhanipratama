@@ -33,11 +33,6 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 
 ---
 
-#### 😄 Pronouns
-He/Him
-
----
-
 #### ⚡ Fun Fact
 Despite being a backend dev, I secretly enjoy tweaking UIs in Astro — it's like CSS, but fun 😎
 
