@@ -11,8 +11,8 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 ---
 
 #### 🌱 Currently Learning
-- Building portfolio integrated AI chatbots using OpenAI & Ollama
-- Full-stack development with Tailwind CSS, Next.js, PostgreSQL, Go, RUST
+- Building portfolio integrated AI chatbots using OpenAI
+- Full-stack development with Tailwind CSS, Next.js, PostgreSQL, Go
 - DevOps basics & containerization (Docker)
 
 ---
