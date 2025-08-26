@@ -1,13 +1,12 @@
 ### 👋 Hi there, I'm Bagas Ramadhani Pratama — aka **bramadhanii** 🚀
 
-I'm a passionate **Software Engineer** and curious mind exploring the world of **LLMs (Large Language Models)**, web development, and AI-powered technologies.
+I'm a passionate **Software Engineer** and curious mind exploring the world of **LLMs (Large Language Models)**, web development.
 
 ---
 
 #### 👀 Interests
 - 🛠️ Web Development (Laravel, Node.js)
 - 🧠 Machine Learning
-- 🌍 Open Source & Tech Community
 
 ---
 
@@ -15,13 +14,6 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 - Building portfolio integrated AI chatbots using OpenAI & Ollama
 - Full-stack development with Tailwind CSS, Next.js, PostgreSQL, Go, RUST
 - DevOps basics & containerization (Docker)
-
----
-
-#### 🤝 Looking to Collaborate On
-- AI-powered portfolio websites
-- Open source LLM integration projects
-- Any cool full-stack idea with real-world impact ✨
 
 ---
 
