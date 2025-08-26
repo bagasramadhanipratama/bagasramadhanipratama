@@ -5,7 +5,6 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 ---
 
 #### 👀 Interests
-- 🤖 Artificial Intelligence (especially LLMs & Chatbots)
 - 🛠️ Web Development (Laravel, Node.js)
 - 🧠 Machine Learning
 - 🌍 Open Source & Tech Community
@@ -13,8 +12,8 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 ---
 
 #### 🌱 Currently Learning
-- Building portfolio-integrated AI chatbots using OpenAI & Ollama
-- Full-stack development with Tailwind CSS, Next.js, PostgreSQL
+- Building portfolio integrated AI chatbots using OpenAI & Ollama
+- Full-stack development with Tailwind CSS, Next.js, PostgreSQL, Go, RUST
 - DevOps basics & containerization (Docker)
 
 ---
@@ -27,8 +26,7 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 ---
 
 #### 📫 Reach Me
-- 💌 Email: **bramadhanii007@gmail.com**
-- 🌐 Portfolio (soon): [bramadhanii.dev](https://bramadhanii.dev) *(placeholder)*
+- 💌 Email: **bramadhanii002@gmail.com**
 - 💼 LinkedIn: [in/bagas ramadhani pratama](https://linkedin.com/in/bagas-ramadhani-pratama)
 
 ---
