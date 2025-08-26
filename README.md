@@ -6,8 +6,8 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 
 #### 👀 Interests
 - 🤖 Artificial Intelligence (especially LLMs & Chatbots)
-- 🛠️ Web Development (Laravel, Django, Node.js)
-- 🧠 Machine Learning & Prompt Engineering
+- 🛠️ Web Development (Laravel, Node.js)
+- 🧠 Machine Learning
 - 🌍 Open Source & Tech Community
 
 ---
