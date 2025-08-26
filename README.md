@@ -26,7 +26,7 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 ---
 
 #### 📫 Reach Me
-- 💌 Email: **bramadhanii002@gmail.com**
+- 💌 Email: **bramadhanii66@gmail.com**
 - 💼 LinkedIn: [in/bagas ramadhani pratama](https://linkedin.com/in/bagas-ramadhani-pratama)
 
 ---
