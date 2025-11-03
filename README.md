@@ -18,7 +18,7 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 ---
 
 #### 📫 Reach Me
-- 💌 Email: **bramadhanip886@gmail.com**
+- 💌 Email: **bramadhanip88@gmail.com**
 - 💼 LinkedIn: [in/bagas ramadhani pratama](https://linkedin.com/in/bagas-ramadhani-pratama)
 
 ---
@@ -28,4 +28,3 @@ Despite being a backend dev, I secretly enjoy tweaking UIs in Astro — it's lik
 
 ---
 
-> _"Keep building. Keep breaking. Keep learning."_ — me, after fixing bugs at 2AM 😅
