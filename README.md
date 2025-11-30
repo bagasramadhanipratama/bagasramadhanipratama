@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 ---
 
 #### 👀 Interests
-- 🛠️ Web Development (Laravel, Node.js)
+- 🛠️ Web Development (Laravel, Node.js, Go, Java)
 - 🧠 Machine Learning
 
 ---
@@ -20,11 +20,6 @@ I'm a passionate **Software Engineer** and curious mind exploring the world of *
 #### 📫 Reach Me
 - 💌 Email: **bramadhanip88@gmail.com**
 - 💼 LinkedIn: [in/bagas ramadhani pratama](https://linkedin.com/in/bagas-ramadhani-pratama)
-
----
-
-#### ⚡ Fun Fact
-Despite being a backend dev, I secretly enjoy tweaking UIs in Astro — it's like CSS, but fun 😎
 
 ---
 
